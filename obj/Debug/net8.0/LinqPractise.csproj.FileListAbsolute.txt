@@ -1,0 +1,14 @@
+/home/davidmamatsashvili/Documents/LinqPractise/bin/Debug/net8.0/LinqPractise
+/home/davidmamatsashvili/Documents/LinqPractise/bin/Debug/net8.0/LinqPractise.deps.json
+/home/davidmamatsashvili/Documents/LinqPractise/bin/Debug/net8.0/LinqPractise.runtimeconfig.json
+/home/davidmamatsashvili/Documents/LinqPractise/bin/Debug/net8.0/LinqPractise.dll
+/home/davidmamatsashvili/Documents/LinqPractise/bin/Debug/net8.0/LinqPractise.pdb
+/home/davidmamatsashvili/Documents/LinqPractise/obj/Debug/net8.0/LinqPractise.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidmamatsashvili/Documents/LinqPractise/obj/Debug/net8.0/LinqPractise.AssemblyInfoInputs.cache
+/home/davidmamatsashvili/Documents/LinqPractise/obj/Debug/net8.0/LinqPractise.AssemblyInfo.cs
+/home/davidmamatsashvili/Documents/LinqPractise/obj/Debug/net8.0/LinqPractise.csproj.CoreCompileInputs.cache
+/home/davidmamatsashvili/Documents/LinqPractise/obj/Debug/net8.0/LinqPractise.dll
+/home/davidmamatsashvili/Documents/LinqPractise/obj/Debug/net8.0/refint/LinqPractise.dll
+/home/davidmamatsashvili/Documents/LinqPractise/obj/Debug/net8.0/LinqPractise.pdb
+/home/davidmamatsashvili/Documents/LinqPractise/obj/Debug/net8.0/LinqPractise.genruntimeconfig.cache
+/home/davidmamatsashvili/Documents/LinqPractise/obj/Debug/net8.0/ref/LinqPractise.dll
