@@ -12,7 +12,13 @@ namespace LinqPractise
             List<int>Tests = new List<int>{1,2,3,4,5,6,7,8,9,10};
             var ans = Tests.EduWhere(x=>x>5);
             foreach(var i in ans){
-                Console.WriteLine(i);
+                Console.Write(i+" ");
+            }
+            
+            Console.WriteLine();
+            var ans2 = Tests.EduSelect(x=>x.ToString());
+            foreach(var i in ans2){
+                Console.Write(i+" ");
             }
 		}
 	}
